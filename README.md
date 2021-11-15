@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chadjcampbell
 - 👀 I’m interested in coding again for the first time since highschool!
-- 🌱 I’m currently learning with The Odin Project
+- 🌱 I’m currently learning some intro stuff
 - 💞️ I’m looking to collaborate on... nothing, yet!
 - 📫 How to reach me - chadjcampbell@gmail.com
