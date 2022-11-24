@@ -44,5 +44,7 @@ I am an aspiring developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadjcampbell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Joke of the Day
+---
+
+### :black_joker: Joke of the Day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
